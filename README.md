@@ -137,7 +137,7 @@ Reducing substep_dt (increasing substeps) results in more stable simulations, sm
 
 ### observed
 
-If the value is greater than 1, it represents no damping (1.0). If the value is less than 1, particle motion lasts longer, energy is better preserved, and PSNR improves.
+If the value is greater than 1, it represents no damping (1.0). If the value is less than 1, particle motion lasts longer, energy is better preserved.
 
 ---
 
